@@ -69,3 +69,4 @@ D:\Vaibhav\VB_DOT_NET\College_management_System\College_Management_System\obj\De
 D:\Vaibhav\VB_DOT_NET\College_management_System\College_Management_System\obj\Debug\net8.0-windows\College_Management_System.Admin_Dashboard.resources
 D:\Vaibhav\VB_DOT_NET\College_management_System\College_Management_System\obj\Debug\net8.0-windows\College_Management_System.Admission.resources
 D:\Vaibhav\VB_DOT_NET\College_management_System\College_Management_System\obj\Debug\net8.0-windows\College_Management_System.Teacher_Registration.resources
+D:\Vaibhav\VB_DOT_NET\College_Management_System\College_Management_System\obj\Debug\net8.0-windows\College_Management_System.sourcelink.json
